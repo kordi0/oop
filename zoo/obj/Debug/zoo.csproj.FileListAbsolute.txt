@@ -1,0 +1,14 @@
+C:\Users\Nik2\source\repos\zoo\zoo\bin\Debug\zoo.exe.config
+C:\Users\Nik2\source\repos\zoo\zoo\bin\Debug\zoo.exe
+C:\Users\Nik2\source\repos\zoo\zoo\bin\Debug\zoo.pdb
+C:\Users\Nik2\source\repos\zoo\zoo\obj\Debug\zoo.csprojResolveAssemblyReference.cache
+C:\Users\Nik2\source\repos\zoo\zoo\obj\Debug\zoo.csproj.CoreCompileInputs.cache
+C:\Users\Nik2\source\repos\zoo\zoo\obj\Debug\zoo.exe
+C:\Users\Nik2\source\repos\zoo\zoo\obj\Debug\zoo.pdb
+C:\repos\zoo\zoo\bin\Debug\zoo.exe.config
+C:\repos\zoo\zoo\bin\Debug\zoo.exe
+C:\repos\zoo\zoo\bin\Debug\zoo.pdb
+C:\repos\zoo\zoo\obj\Debug\zoo.csprojAssemblyReference.cache
+C:\repos\zoo\zoo\obj\Debug\zoo.csproj.CoreCompileInputs.cache
+C:\repos\zoo\zoo\obj\Debug\zoo.exe
+C:\repos\zoo\zoo\obj\Debug\zoo.pdb
